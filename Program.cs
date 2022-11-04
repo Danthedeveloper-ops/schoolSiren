@@ -6,6 +6,7 @@ Random numberGen = new Random();
 
 int roll = 0;
 int attempts = 0;
+Console.WriteLine("press enter to roll a dice")
 
 while (roll != 6)
 {
