@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\schoolSiren\bin\Debug\net6.0\schoolSiren.exe
+C:\Users\Student\Desktop\schoolSiren\bin\Debug\net6.0\schoolSiren.deps.json
+C:\Users\Student\Desktop\schoolSiren\bin\Debug\net6.0\schoolSiren.runtimeconfig.json
+C:\Users\Student\Desktop\schoolSiren\bin\Debug\net6.0\schoolSiren.dll
+C:\Users\Student\Desktop\schoolSiren\bin\Debug\net6.0\schoolSiren.pdb
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\schoolSiren.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\schoolSiren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\schoolSiren.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\schoolSiren.AssemblyInfo.cs
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\schoolSiren.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\schoolSiren.dll
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\refint\schoolSiren.dll
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\schoolSiren.pdb
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\schoolSiren.genruntimeconfig.cache
+C:\Users\Student\Desktop\schoolSiren\obj\Debug\net6.0\ref\schoolSiren.dll
