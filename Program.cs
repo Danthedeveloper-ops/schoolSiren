@@ -7,9 +7,11 @@ Random numberGen = new Random();
 int roll = 0;
 int attempts = 0;
 
-while (roll != 0)
+while (roll != 6)
 {
-    roll = numberGen.Next(1, 2);
+    roll = numberGen.Next(1, 7);
+    Console.WriteLine("you rolled: " + roll);
+    attempts++;
 }
 
 
