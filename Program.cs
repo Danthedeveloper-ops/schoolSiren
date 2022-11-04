@@ -14,6 +14,6 @@ while (roll != 6)
     attempts++;
 }
 
-
+Console.WriteLine("it took you " + attempts + " attempts to roll a six");
 
 Console.Read();
