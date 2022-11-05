@@ -4,14 +4,18 @@
 Random numberGen = new Random();
 
 
-int roll = 0;
+int rollOne = 0;
+int rollTwo = 1;
 int attempts = 0;
-Console.WriteLine("press enter to roll a dice");
+Console.WriteLine("press enter to roll a die");
 
-while (roll != 6)
-{
-    roll = numberGen.Next(1, 7);
-    Console.WriteLine("you rolled: " + roll);
+while (rollOne != rollTwo )
+{Console.ReadKey();
+
+    rollOne = numberGen.Next(1, 7);
+    rollTwo = numberGen.Next(1, 7);
+    Console.WriteLine("you rolled: " + rollOne);
+        Console.WriteLine("Roll 2: " + rollTwo + "\n");
     attempts++;
 }
 
